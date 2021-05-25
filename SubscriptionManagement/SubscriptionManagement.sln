@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubcriptionManagement", "SubcriptionManagement\SubcriptionManagement.csproj", "{D716C591-60B8-4D02-8420-D536F1026754}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionManagement", "SubscriptionManagement\SubscriptionManagement.csproj", "{D716C591-60B8-4D02-8420-D536F1026754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubcriptionManagementTest", "SubcriptionManagementTest\SubcriptionManagementTest.csproj", "{AD63C82C-F795-4A4D-ACBF-2AA8AA0B127B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionManagementTest", "SubscriptionManagementTest\SubscriptionManagementTest.csproj", "{AD63C82C-F795-4A4D-ACBF-2AA8AA0B127B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

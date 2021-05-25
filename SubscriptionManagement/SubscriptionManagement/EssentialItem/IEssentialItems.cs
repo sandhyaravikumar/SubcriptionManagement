@@ -1,4 +1,4 @@
-﻿namespace SubcriptionManagement
+﻿namespace SubscriptionManagement
 {
     public interface IEssentialItems
     {

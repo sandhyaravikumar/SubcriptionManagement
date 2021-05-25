@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SubcriptionManagement;
+using SubscriptionManagement;
 
-namespace SubcriptionManagementTest
+namespace SubscriptionManagementTest
 {
     [TestClass]
     public class SubscriptionTest
